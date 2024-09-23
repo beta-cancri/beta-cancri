@@ -34,11 +34,22 @@ Proyecto académico que muestra Pokémon de todas las generaciones. Integra **Re
 
 ## Technologies
 - **Frontend**: ![React](https://img.shields.io/badge/React-v17.0.2-blue), ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
-- **Backend**: Node.js, Express.js
-- **Database**: PostgreSQL, Sequelize
-- **Tools**: Git, Railway, Jira, Confluence
+- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+- **Database**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 - **Languages**:  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript) ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 
 ## Contact
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com)
 - **Email**: diegoalonsochinchayhernandez@gmail.com
+
+
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+
+
+
+
