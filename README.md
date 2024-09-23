@@ -1,16 +1,16 @@
 # Diego Alonso Chinchay Hernandez - Full Stack Developer
 
 ## About Me
-🎮   I'm passionate about video games, anime, chess, and biking. I also love working out to maintain a healthy balance.
-👨🏻‍💻   I'm a Full Stack Developer with hands-on experience in front-end and back-end technologies.
-🌱   I’m always learning and exploring new tech tools to improve my skill set.
-💼   I'm currently open to new job opportunities that allow me to further develop my technical skills and collaborate with inspiring teams.
+- 🎮   I'm passionate about video games, anime, chess, and biking. I also love working out to maintain a healthy balance.
+- 👨🏻‍💻   I'm a Full Stack Developer with hands-on experience in front-end and back-end technologies.
+- 🌱   I’m always learning and exploring new tech tools to improve my skill set.
+- 💼   I'm currently open to new job opportunities that allow me to further develop my technical skills and collaborate with inspiring teams.
 
 ## Sobre Mí
-🎮   Me apasionan los videojuegos, anime, ajedrez y andar en bicicleta. También me encanta hacer ejercicio para mantener un equilibrio saludable.
-👨🏻‍💻   Soy Desarrollador Full Stack con experiencia en front-end y back-end.
-🌱   Estoy constantemente aprendiendo y explorando nuevas herramientas tecnológicas.
-💼   Actualmente estoy abierto a nuevas oportunidades laborales que me permitan desarrollar mis habilidades técnicas y colaborar con equipos inspiradores.
+- 🎮   Me apasionan los videojuegos, anime, ajedrez y andar en bicicleta. También me encanta hacer ejercicio para mantener un equilibrio saludable.
+- 👨🏻‍💻   Soy Desarrollador Full Stack con experiencia en front-end y back-end.
+- 🌱   Estoy constantemente aprendiendo y explorando nuevas herramientas tecnológicas.
+- 💼   Actualmente estoy abierto a nuevas oportunidades laborales que me permitan desarrollar mis habilidades técnicas y colaborar con equipos inspiradores.
 
 ## Projects
 ### 1. [Salvando Huellitas](https://github.com/beta-cancri/SalvandoHuellitas-Front-end.git)
@@ -42,14 +42,3 @@ Proyecto académico que muestra Pokémon de todas las generaciones. Integra **Re
 ## Contact
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com)
 - **Email**: diegoalonsochinchayhernandez@gmail.com
-
-
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-
-
-
-
