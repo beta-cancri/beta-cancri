@@ -1,7 +1,16 @@
 # Diego Alonso Chinchay Hernandez - Full Stack Developer
 
 ## About Me
-I'm a passionate Full Stack Developer with hands-on experience in **front-end** and **back-end** technologies such as **React.js**, **Node.js**, **Express.js**, and **PostgreSQL**. I completed the **Henry Bootcamp**, where I developed a strong foundation in **web development**, **algorithms**, and **agile methodologies** like **Scrum**.
+🎮   I'm passionate about video games, anime, chess, and biking. I also love working out to maintain a healthy balance.
+👨🏻‍💻   I'm a Full Stack Developer with hands-on experience in front-end and back-end technologies.
+🌱   I’m always learning and exploring new tech tools to improve my skill set.
+💼   I'm currently open to new job opportunities that allow me to further develop my technical skills and collaborate with inspiring teams.
+
+## Sobre Mí
+🎮   Me apasionan los videojuegos, anime, ajedrez y andar en bicicleta. También me encanta hacer ejercicio para mantener un equilibrio saludable.
+👨🏻‍💻   Soy Desarrollador Full Stack con experiencia en front-end y back-end.
+🌱   Estoy constantemente aprendiendo y explorando nuevas herramientas tecnológicas.
+💼   Actualmente estoy abierto a nuevas oportunidades laborales que me permitan desarrollar mis habilidades técnicas y colaborar con equipos inspiradores.
 
 ## Projects
 ### 1. [Salvando Huellitas](https://github.com/beta-cancri/SalvandoHuellitas-Front-end.git)
@@ -13,23 +22,6 @@ This project is a personal application that tracks video games I have played and
 ### 3. [Pokémon Individual Project](https://github.com/beta-cancri/PI-Pokemon-main)
 An academic project that displays Pokémon from all generations. It integrates **React.js** for the interface and **Node.js** for back-end processes, with data handled through **PostgreSQL**.
 
-## Technologies
-- **Frontend**: React.js, HTML, CSS
-- **Backend**: Node.js, Express.js
-- **Database**: PostgreSQL, Sequelize
-- **Tools**: Git, Railway, Jira, Confluence
-- **Languages**: JavaScript, SQL
-
-## Contact
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com)
-- **Email**: diegoalonsochinchayhernandez@gmail.com
-
-
-# Diego Alonso Chinchay Hernandez - Desarrollador Full Stack
-
-## Sobre Mí
-Soy un Desarrollador Full Stack con experiencia en tecnologías de **front-end** y **back-end** como **React.js**, **Node.js**, **Express.js** y **PostgreSQL**. Completé el **Bootcamp de Henry**, donde adquirí una sólida base en **desarrollo web**, **algoritmos**, y **metodologías ágiles** como **Scrum**.
-
 ## Proyectos
 ### 1. [Salvando Huellitas](https://github.com/beta-cancri/SalvandoHuellitas-Front-end.git)
 Aplicación web dedicada a la adopción de mascotas rescatadas a través de formularios personalizados. Desarrollé los paneles de **usuario** y **administrador**, gestionando el diseño del front-end con **React.js** y manejando el back-end con **Express.js**. El proyecto integra una base de datos utilizando **PostgreSQL** y **Sequelize** para la gestión de datos.
@@ -40,13 +32,13 @@ Este proyecto es una aplicación personal que realiza un seguimiento de los vide
 ### 3. [Proyecto Individual Pokémon](https://github.com/beta-cancri/PI-Pokemon-main)
 Proyecto académico que muestra Pokémon de todas las generaciones. Integra **React.js** para la interfaz y **Node.js** para los procesos del back-end, con datos gestionados a través de **PostgreSQL**.
 
-## Tecnologías
-- **Frontend**: React.js, HTML, CSS
+## Technologies
+- **Frontend**: ![React](https://img.shields.io/badge/React-v17.0.2-blue), ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
 - **Backend**: Node.js, Express.js
-- **Base de Datos**: PostgreSQL, Sequelize
-- **Herramientas**: Git, Railway, Jira, Confluence
-- **Lenguajes**: JavaScript, SQL
+- **Database**: PostgreSQL, Sequelize
+- **Tools**: Git, Railway, Jira, Confluence
+- **Languages**:  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript) ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 
-## Contacto
-- **LinkedIn**: [Perfil de LinkedIn](https://www.linkedin.com)
-- **Correo**: diegoalonsochinchayhernandez@gmail.com
+## Contact
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com)
+- **Email**: diegoalonsochinchayhernandez@gmail.com
